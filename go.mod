@@ -1,7 +1,8 @@
-module Hugo-Shared-ShortCodes
+module github.com/google/docsy-example
 
-go 1.16
+go 1.12
 
 require (
-    github.com/goharbor/harbor v2.0.0 // for example, you can leave it empty if no dependencies
+    github.com/google/docsy v0.10.1-0.20240529105443-333c2f8d4172 // indirect - v0.10.0-12-g333c2f8
+    github.com/ethanjose1/Hugo-Shared-ShortCodes
 )
