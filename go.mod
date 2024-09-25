@@ -1,8 +1,7 @@
-module github.com/google/docsy-example
+module github.com/ethanjose1/Hugo-Shared-ShortCodes
 
-go 1.12
+go 1.23.1
 
 require (
-    github.com/google/docsy v0.10.1-0.20240529105443-333c2f8d4172 // indirect - v0.10.0-12-g333c2f8
     github.com/ethanjose1/Hugo-Shared-ShortCodes
 )
