@@ -1,8 +1,9 @@
-module github.com/google/docsy-example
+module github.com/yourusername/hugo-shared-shortcodes
 
 go 1.12
 
 require (
-    github.com/google/docsy v0.10.1-0.20240529105443-333c2f8d4172 // indirect - v0.10.0-12-g333c2f8
-    github.com/ethanjose1/Hugo-Shared-ShortCodes
+    // Add any dependencies that your shared module needs.
+    // For example, if you have a dependency:
+    // github.com/some/dependency v1.2.3
 )
