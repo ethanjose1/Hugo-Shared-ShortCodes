@@ -1,4 +1,4 @@
-module github.com/yourusername/hugo-shared-shortcodes
+module github.com/ethanjose1/Hugo-Shared-ShortCodes
 
 go 1.12
 
